@@ -17,7 +17,7 @@
 ||A grey tabby cat sitting on a wooden platform with a blue sky in the background, painted in watercolor style.| <img src="showvideos/cat.mp4.gif" width="256" height="256">|
 ||A grey tabby cat sitting on a city rooftop with skyscrapers in the distance.| <img src="showvideos/cat3.gif" width="256" height="256">|
 | <img src="showvideos/car-turn.gif" width="128" height="128">| A vehicle traversing a serpentine mountain road, rendered in the vibrant and textured style of a Van Gogh painting.| <img src="showvideos/car-turn.mp4.gif" width="256" height="256">|
-| | A playful corgi dog with its mouth open and tongue out, standing in a sunny park with children playing in the background.| <img src="showvideos/corgi.mp4.gif" width="256" height="256">|
+|<img src="showvideos/corgi.gif" width="128" height="128"> | A playful corgi dog with its mouth open and tongue out, standing in a sunny park with children playing in the background.| <img src="showvideos/corgi.mp4.gif" width="256" height="256">|
 | | A fantasy dragon with fiery eyes and smoke coming out of its nostrils, perched on top of a rocky cliff, thunderstorm behind| <img src="showvideos/corgi2.gif" width="256" height="256">|
 | | A playful golden retriever with its mouth open and tongue out, looking excitedly at the camera.| <img src="showvideos/corgi3.gif" width="256" height="256">|
 |<img src="showvideos/cactus.gif" width="128" height="128"> | A cactus with a yellow flower against a blue background blooms, Fairy Tale Animation style.| <img src="showvideos/cactus.mp4.gif" width="256" height="256">|
