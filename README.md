@@ -14,8 +14,8 @@
 | 原始视频 | 提示词 | 修改后的视频 **2s 256×256** |
 |----------|--------|---------------------------|
 |  <img src="showvideos/cat.gif" width="128" height="128">| A snow leopard with vibrant green eyes sitting on an icy mountain peak, with snowflakes gently falling around. | <img src="showvideos/cat2.gif"  width="256" height="256">|
-||A grey tabby cat sitting on a wooden platform with a blue sky in the background, painted in watercolor style.| <img src="showvideos/cat.mp4.gif" width="256" height="256">|
-||A grey tabby cat sitting on a city rooftop with skyscrapers in the distance.| <img src="showvideos/cat3.gif" width="256" height="256">|
+||A grey tabby cat sitting on a wooden platform with a blue sky in the background, painted in watercolor style.| <img src="showvideos/cat3.gif" width="256" height="256">|
+||A grey tabby cat sitting on a city rooftop with skyscrapers in the distance.| <img src="showvideos/cat.mp4.gif" width="256" height="256">|
 | <img src="showvideos/car-turn.gif" width="128" height="128">| A vehicle traversing a serpentine mountain road, rendered in the vibrant and textured style of a Van Gogh painting.| <img src="showvideos/car-turn.mp4.gif" width="256" height="256">|
 |<img src="showvideos/corgi.gif" width="128" height="128"> | A playful corgi dog with its mouth open and tongue out, standing in a sunny park with children playing in the background.| <img src="showvideos/corgi.mp4.gif" width="256" height="256">|
 | | A fantasy dragon with fiery eyes and smoke coming out of its nostrils, perched on top of a rocky cliff, thunderstorm behind| <img src="showvideos/corgi2.gif" width="256" height="256">|
