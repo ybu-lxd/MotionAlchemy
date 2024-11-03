@@ -13,15 +13,15 @@
 ## Demos 2s $\times$ 256 $\times$ 256
 | 原始视频 | 提示词 | 修改后的视频 **2s 256×256** |
 |----------|--------|---------------------------|
-|  <img src="showvideos/cat.gif" width="256">| A snow leopard with vibrant green eyes sitting on an icy mountain peak, with snowflakes gently falling around. | <img src="showvideos/cat2.gif" width="">|
-||A grey tabby cat sitting on a wooden platform with a blue sky in the background, painted in watercolor style.| <img src="showvideos/cat.mp4.gif" width="">|
-||A grey tabby cat sitting on a city rooftop with skyscrapers in the distance.| <img src="showvideos/cat3.gif" width="">|
-| <img src="showvideos/car-turn.gif" width="256">| A vehicle traversing a serpentine mountain road, rendered in the vibrant and textured style of a Van Gogh painting.| <img src="showvideos/car-turn.mp4.gif" width="">|
-| | A playful corgi dog with its mouth open and tongue out, standing in a sunny park with children playing in the background.| <img src="showvideos/corgi.mp4.gif" width="">|
-| | A fantasy dragon with fiery eyes and smoke coming out of its nostrils, perched on top of a rocky cliff, thunderstorm behind| <img src="showvideos/corgi2.gif" width="">|
-| | A playful golden retriever with its mouth open and tongue out, looking excitedly at the camera.| <img src="showvideos/corgi3.gif" width="">|
-|<img src="showvideos/cactus.gif" width="256"> | A cactus with a yellow flower against a blue background blooms, Fairy Tale Animation style.| <img src="showvideos/cactus.mp4.gif" width="">|
-|<img src="showvideos/truck.gif" width="256"> | Animated characters enjoying a road trip in a cartoonish red spaceship on a country road.| <img src="showvideos/truck.mp4.gif" width="">|
+|  <img src="showvideos/cat.gif" width="256" height="256">| A snow leopard with vibrant green eyes sitting on an icy mountain peak, with snowflakes gently falling around. | <img src="showvideos/cat2.gif" width="256" height="256">|
+||A grey tabby cat sitting on a wooden platform with a blue sky in the background, painted in watercolor style.| <img src="showvideos/cat.mp4.gif" width="256" height="256">|
+||A grey tabby cat sitting on a city rooftop with skyscrapers in the distance.| <img src="showvideos/cat3.gif"width="256" height="256">|
+| <img src="showvideos/car-turn.gif" width="256" height="256">| A vehicle traversing a serpentine mountain road, rendered in the vibrant and textured style of a Van Gogh painting.| <img src="showvideos/car-turn.mp4.gif" width="256" height="256">|
+| | A playful corgi dog with its mouth open and tongue out, standing in a sunny park with children playing in the background.| <img src="showvideos/corgi.mp4.gif" width="256" height="256">|
+| | A fantasy dragon with fiery eyes and smoke coming out of its nostrils, perched on top of a rocky cliff, thunderstorm behind| <img src="showvideos/corgi2.gif"width="256" height="256">|
+| | A playful golden retriever with its mouth open and tongue out, looking excitedly at the camera.| <img src="showvideos/corgi3.gif" width="256" height="256">|
+|<img src="showvideos/cactus.gif" width="256" height="256"> | A cactus with a yellow flower against a blue background blooms, Fairy Tale Animation style.| <img src="showvideos/cactus.mp4.gif" width="256" height="256">|
+|<img src="showvideos/truck.gif" width="256" height="256"> | Animated characters enjoying a road trip in a cartoonish red spaceship on a country road.| <img src="showvideos/truck.mp4.gif" width="256" height="256">|
 
 
 
